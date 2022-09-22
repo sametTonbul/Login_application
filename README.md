@@ -1,16 +1,14 @@
-# flutter_login_app
+<h1 align="center">LOGIN APPLICATION via FLUTTER</h1> 
+<h1 align="center">Check 'main.dart' and other dart page for more information ! </h1> 
+<h1 align="center">Three Pictures about Application</h1> 
+<h3 align="center">In our application, the user name and password, the transfer of data to the page in the light of this data, the application running in the background and these links are discussed.</h3> 
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/sametTonbul/Login_application/blob/sametTonbul-app-pictures/Screenshot_1663884711.png" width="325" height="578" />
+  
+<p align="center">
+  <img src="https://github.com/sametTonbul/Login_application/blob/sametTonbul-app-pictures/Screenshot_1663884719.png" width="325" height="578" />
+  
+<p align="center">
+  <img src="https://github.com/sametTonbul/Login_application/blob/sametTonbul-app-pictures/Screenshot_1663884726.png" width="325" height="578" />
